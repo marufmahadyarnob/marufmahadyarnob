@@ -78,7 +78,6 @@ Real-world tech + learning-based projects
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marufmahadyarnob&style=flat-square&color=ff0000" />
 </p>
----
 
 ## 🏆 ACHIEVEMENTS
 
