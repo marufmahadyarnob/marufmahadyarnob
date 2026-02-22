@@ -1,12 +1,12 @@
-<!-- ===================== CYBER RED MATRIX HEADER ===================== -->
+<!-- ===================== CYBER RED MATRIX CINEMATIC HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:8B0000&height=260&section=header&text=MARUF%20MAHADY%20ARNOB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:8B0000&height=300&section=header&text=MARUF%20MAHADY%20ARNOB&fontSize=50&fontColor=ffffff&animation=glitch&fontAlignY=50&rotate=10" />
 </p>
 
-<h2 align="center">⚙️ Civil Engineer | 💻 IT Officer | 🎨 Designer | 🚀 Future Full Stack Developer</h2>
+<h2 align="center">⚙️ Civil Engineer | 💻 IT Officer | 🎨 Designer | 🚀 Web Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=700&lines=Engineering+the+Future+with+Technology;Civil+%2B+Code+%2B+Creativity;Smart+Infrastructure+Vision;Design.+Develop.+Innovate.;Continuous+Learning+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=700&lines=Engineering+the+Future+with+Technology;Civil+%2B+Code+%2B+Creativity;Smart+Infrastructure+Vision;Design.+Develop.+Dominate.;Continuous+Learning+Mindset" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 💻 Learning Python & Modern Web Development  
 - 🌍 Based in Bangladesh  
 
-Blending Engineering Precision + Code Intelligence + Visual Creativity.
+Blending **Engineering Precision + Code Intelligence + Visual Creativity**.
 
 ---
 
@@ -45,6 +45,19 @@ AutoCAD • Estimation • Project Planning
 
 ### 🎨 Design Tools
 Photoshop • Illustrator • Canva  
+
+---
+
+## 🌈 FEATURED WORKS
+
+### 🌐 Personal Portfolio  
+Modern animated website using HTML, CSS & JS  
+
+### 🎨 Graphic Design Projects  
+Brand Identity • Posters • Social Media Designs  
+
+### 💡 Smart Web Apps (Upcoming)  
+Real-world tech + learning-based projects  
 
 ---
 
@@ -80,30 +93,31 @@ Photoshop • Illustrator • Canva
 
 ---
 
-## 🚀 FEATURED WORKS
+## 🌐 TOTAL VISITORS
 
-### 🌐 Personal Portfolio  
-Modern animated website using HTML, CSS & JS  
-
-### 🎨 Graphic Design Projects  
-Brand Identity • Posters • Creative Media  
-
-### 💡 Smart Web Applications (Upcoming)  
-Real-world technology-based learning projects  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marufmahadyarnob&style=flat-square&color=ff0000" />
+</p>
 
 ---
 
-## 🌐 CONNECT
+## ✉️ CONTACT
 
 <p align="center">
+  <a href="mailto:marufmahadyarnob@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
   <a href="https://github.com/marufmahadyarnob">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.facebook.com/whyneedme#">
     <img src="https://img.shields.io/badge/Facebook-Visit-darkred?style=for-the-badge&logo=facebook">
   </a>
-  <a href="mailto:marufmahadyarnob@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  <a href="https://wa.me/8801777205950">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
+  </a>
+  <a href="tel:+8801777205950">
+    <img src="https://img.shields.io/badge/Mobile-Call-red?style=for-the-badge&logo=android">
   </a>
 </p>
 
