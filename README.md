@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:8B0000&height=300&section=header&text=MARUF%20MAHADY%20ARNOB&fontSize=50&fontColor=ffffff&animation=glitch&fontAlignY=55" />
 </p>
 
-<h2 align="center">⚙️ Civil Engineer | 💻 IT Officer | 🎨 Designer | 🚀 Web Developer</h2>
+<h2 align="center">⚙️ Civil Engineer | 🎨 Designer | 🚀 Web Developer</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=700&lines=Engineering+the+Future+with+Technology;Civil+%2B+Code+%2B+Creativity;Smart+Infrastructure+Vision;Design.+Develop.+Dominate.;Continuous+Learning+Mindset" />
@@ -15,7 +15,7 @@
 
 - 🎓 BSc in Civil Engineering (Running) – European University of Bangladesh  
 - 🏗 Diploma in Civil Engineering – Naogaon Polytechnic Institute (GPA 4.77)  
-- 💼 IT Officer & ICT Teacher – Savar Model Academy  
+- 💼 IT Officer & Assistant Teacher – Savar Model Academy  
 - 🎨 Graphic Designer  
 - 💻 Learning Python & Modern Web Development  
 - 🌍 Based in Bangladesh  
@@ -74,7 +74,10 @@ Real-world tech + learning-based projects
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmahadyarnob&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff0000&border_color=8B0000" />
 </p>
-
+<!----------------==========visitor=============-------------------->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marufmahadyarnob&style=flat-square&color=ff0000" />
+</p>
 ---
 
 ## 🏆 ACHIEVEMENTS
@@ -89,14 +92,6 @@ Real-world tech + learning-based projects
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marufmahadyarnob/marufmahadyarnob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🌐 TOTAL VISITORS
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marufmahadyarnob&style=flat-square&color=ff0000" />
 </p>
 
 ---
@@ -124,9 +119,9 @@ Real-world tech + learning-based projects
 ---
 
 <p align="center">
-  <b>⚡ ENGINEERING THE DIGITAL FUTURE ⚡</b>
+  <b>⚡ Crafted with ❤️ by Maruf Mahady Arnob ⚡</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120,weight=100%&section=footer"/>
 </p>
