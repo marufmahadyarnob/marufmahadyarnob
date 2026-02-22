@@ -1,6 +1,6 @@
 <!-- ===================== CYBER RED MATRIX CINEMATIC HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:8B0000&height=300&section=header&text=MARUF%20MAHADY%20ARNOB&fontSize=50&fontColor=ffffff&animation=glitch&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:8B0000&height=200&section=header&text=MARUF%20MAHADY%20ARNOB&fontSize=50&fontColor=ffffff&animation=glitch&fontAlignY=55" />
 </p>
 
 <h2 align="center">⚙️ Civil Engineer | 🎨 Designer | 🚀 Web Developer</h2>
