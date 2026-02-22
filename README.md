@@ -122,5 +122,5 @@ Real-world tech + learning-based projects
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120,weight=100%&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120,width=100%&section=footer"/>
 </p>
