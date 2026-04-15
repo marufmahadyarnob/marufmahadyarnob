@@ -79,22 +79,6 @@ Real-world tech + learning-based projects
   <img src="https://komarev.com/ghpvc/?username=marufmahadyarnob&style=flat-square&color=ff0000" />
 </p>
 
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marufmahadyarnob&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marufmahadyarnob/marufmahadyarnob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## ✉️ CONTACT
 
 <p align="center">
