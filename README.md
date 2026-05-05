@@ -14,7 +14,7 @@
 ## 🧠 ABOUT ME
 
 - 🎓 BSc in Civil Engineering (Running) – European University of Bangladesh  
-- 🏗 Diploma in Civil Engineering – Naogaon Polytechnic Institute (GPA 4.77)  
+- 🏗 Diploma in Civil Engineering – Naogaon Polytechnic Institute 
 - 💼 IT Officer & Assistant Teacher – Savar Model Academy  
 - 🎨 Graphic Designer  
 - 💻 Learning Python & Modern Web Development  
