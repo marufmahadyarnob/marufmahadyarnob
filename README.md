@@ -37,7 +37,7 @@ Blending **Engineering Precision + Code Intelligence + Visual Creativity**.
 ## 🛠 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,typescript" />
 </p>
 
 ### 🏗 Civil Tools
